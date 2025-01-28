@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings: "wdth" 76.1;
+}
+body {
+    background-color: rgb(225, 222, 222);
+}
+nav {
+    height: 75px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 2rem;
+    font-weight: 100;
+}
+.logo img {
+    width: 50px;
+    margin-right: 10px;
+}
+.content {
+    font-family: "Potta One", serif;
+}
+.container {
+    height: 100px;
+    width: 900px;
+    margin:auto;
+    font-size: 1.4rem;
+    padding: 40px 0;
+}
+.toolbar-item button {
+    background-color: rgb(86, 85, 85) !important;
+    color: white !important;
+    font-size:  1rem !important;
+    font-weight: 400 !important;
+    padding: 5px !important;
+    border: 1px solid white !important;
+}
