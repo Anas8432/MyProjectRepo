@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(163, 123, 249);
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.box {
+    background-color: rgb(20, 190, 224);
+    height: fit-content;
+    width:min-content;
+    padding: 3rem 2rem 3rem 2rem;
+    border: 0.30rem solid black;
+    border-radius: 0.50rem;
+    margin-top: 2rem;
+    margin-right: 10px;
+}
+form label {
+    font-size: 1.3rem;
+    color:navy;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+form input {
+    height: 2.5rem;
+    width: 25rem;
+    padding: 0 0.2rem 0 0.6rem;
+    font-size: 1.2rem;
+    color:navy;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 0.9rem;
+    margin-bottom: 2rem;
+    border: 2px solid navy;
+}
+form button {
+    height: 2rem;
+    width: 11.50rem;
+    font-size: 1rem;
+    color:rgb(194, 194, 252);
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 0.9rem;
+    border: 2px solid rgb(12, 12, 114);
+    background-color: navy;
+    margin-left: 1rem;
+}
+#list {
+    height: min-content;
+    width: 50%;
+    background-color: aliceblue;
+    border: 0.3rem solid black;
+    border-radius: 0.50rem;
+    display:inline-block;
+    justify-content: left;
+    font-size: 1.2rem;
+    font-style: italic;
+    color: navy;
+    margin-top: 2rem;
+}
+#list h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: navy;
+    
+}
