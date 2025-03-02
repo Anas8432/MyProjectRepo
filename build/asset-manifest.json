@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyProjectRepo/static/css/main.f855e6bc.css",
+    "main.js": "/MyProjectRepo/static/js/main.979e3350.js",
+    "static/js/453.ae270511.chunk.js": "/MyProjectRepo/static/js/453.ae270511.chunk.js",
+    "index.html": "/MyProjectRepo/index.html",
+    "main.f855e6bc.css.map": "/MyProjectRepo/static/css/main.f855e6bc.css.map",
+    "main.979e3350.js.map": "/MyProjectRepo/static/js/main.979e3350.js.map",
+    "453.ae270511.chunk.js.map": "/MyProjectRepo/static/js/453.ae270511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.979e3350.js"
+  ]
+}
